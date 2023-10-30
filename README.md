@@ -1,31 +1,5 @@
 [![Netlify + Astro](https://user-images.githubusercontent.com/43764894/223559085-8ff69d2f-4247-427f-a3a6-d2036b00082a.png)](https://ntl.fyi/3LZGn73)
 
-# Astro Quickstart Template   
-
-This is a bare-bones Astro project that has everything you need to quickly deploy it to [Netlify](https://netlify.com). 
-
-Hate reading, here's a video: https://youtu.be/SknFflQVOys!
-
-Love reading, here's blog post: www.netlify.app/blog/deploy-your-astro-project-fast/!
-
-## Table of Contents:
-
-- [Quick Setup + Deploy Option](#quick-setup--deploy-option)
-- [Regular Setup](#regular-setup)
-  - [Cloning + Install Packages](#1-cloning--install-packages)
-  - [Deploying](#2-deploying)
-- [Astro + Netlify Resources](#astro--netlify-resources)
-- [Project Structure](#project-structure)
-- [Styling](#styling)
-  - [Notes on Styling](#notes-on-styling)
-  - [Remove Styling](#remove-styling)
-- [Commands](#commands)
-- [Testing](#testing)
-  - [Included Default Testing](#included-default-testing)
-  - [Removing Renovate](#removing-renovate)
-  - [Removing Cypress](#removing-cypress)
-- [Want to learn more?](#want-to-learn-more)
-
 ## Quick Setup + Deploy Option
 
 Click this button and it will help you create a new repo, create a new Netlify project, and deploy!
